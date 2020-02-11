@@ -17,9 +17,7 @@
     ],
     "require": {
         "php" : ">=7.1.0",
-        "illuminate/http": "^5.7|^5.8",
-        "illuminate/database": "^5.7|^5.8",
-        "illuminate/support": "^5.7|^5.8",
+        "laravel/framework": "^6.2",
         "padosoft/io": "^1.0",
         "padosoft/laravel-request": "^2.0|^3.0",
         "padosoft/support": "^1.6|^2.1"
